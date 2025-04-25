@@ -1,7 +1,9 @@
 # 🧠 Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
-Participei de um laboratório bem interessante onde pude colocar em prática o uso do Azure Cognitive Search para organizar e explorar grandes volumes de dados de forma inteligente. 
+Participei de um laboratório bem interessante onde pude colocar em prática o uso do Azure Cognitive Search para organizar e explorar grandes volumes de dados de forma inteligente.
+
 O desafio era bem realista: imaginar que eu trabalhava no setor de tecnologia de uma rede nacional de cafés, que recebe reclamações e feedbacks de clientes de todos os estados do Brasil. 
+
 A missão era entender se os clientes estavam satisfeitos com o serviço, e como a empresa poderia melhorar, mesmo com essa quantidade enorme de dados espalhados.
 
 A grande questão era: como transformar todos esses documentos soltos — textos, arquivos, etc. — em algo pesquisável, estruturado e que gerasse insights reais? 
